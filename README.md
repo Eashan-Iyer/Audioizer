@@ -1,6 +1,6 @@
 # Audioizer
 Summary:
-Graphing calculators are programs that visualize functions. Analogously, this program sonifies functions, outputting waveforms with a frequency that evolves with respect to time, based on the function. I was inspired to make this program to create more sensory intuition in mathematics. I have included two sample outputs, converted to .mp3 files. 
+Graphing calculators are programs that visualize functions. Analogously, this program sonifies functions, outputting waveforms with a frequency that evolves with respect to time, based on the function. I was inspired to make this program to answer the question, "what does math sound like?". I have included two sample outputs, converted to .mp3 files. 
 
 Usage:
 In order to use the program, type in a function of t after lambda t; there is a comment of code indicating this. This program will produce a .wav audio file. The program starts the file t=0, and ends at t=duration (duration is a parameter the user can set). The range of output frequencies is theoretically arbitrary but limited by your speakers and ears.
